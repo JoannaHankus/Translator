@@ -1,7 +1,3 @@
-//
-// Created by proxpxd on 20.05.19.
-//
-
 #include <iostream>
 
 #include "Word.hpp"
