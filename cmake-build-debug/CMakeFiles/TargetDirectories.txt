@@ -1,0 +1,3 @@
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/cmake-build-debug/CMakeFiles/translator.dir
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/cmake-build-debug/CMakeFiles/edit_cache.dir

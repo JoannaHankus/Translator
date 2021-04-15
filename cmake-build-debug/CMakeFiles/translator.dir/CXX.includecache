@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/Language.hpp
+iostream
+-
+map
+-
+vector
+-
+iterator
+-
+
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/Word.hpp
+iostream
+-
+vector
+-
+map
+-
+
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/main.cpp
+iostream
+-
+Word.hpp
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/Word.hpp
+Language.hpp
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/Language.hpp
+tests/WordTest.hpp
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/tests/WordTest.hpp
+tests/LanguageTest.hpp
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/tests/LanguageTest.hpp
+
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/tests/LanguageTest.hpp
+../Word.hpp
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/Word.hpp
+
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/tests/WordTest.hpp
+../Word.hpp
+/home/proxpxd/Desktop/moje_programy/C++/AGH/translator/JIMP2_Translator/Word.hpp
+

@@ -1,0 +1,1 @@
+/bin/c++  -g   CMakeFiles/translator.dir/main.cpp.o CMakeFiles/translator.dir/Language.cpp.o CMakeFiles/translator.dir/Word.cpp.o CMakeFiles/translator.dir/tests/WordTest.cpp.o CMakeFiles/translator.dir/tests/LanguageTest.cpp.o  -o translator 
