@@ -1,7 +1,3 @@
-//
-// Created by proxpxd on 20.05.19.
-//
-
 #ifndef TRANSLATOR_WORD_HPP
 #define TRANSLATOR_WORD_HPP
 
